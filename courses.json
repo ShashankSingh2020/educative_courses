@@ -488,5 +488,15 @@
     "difficulty": "beginner",
     "module_number": 5,
     "certification": "paid"
+  },
+  {
+    "id": 51,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Managing State in Flutter Using BLoC Pattern",
+    "link": "https://www.educative.io/courses/managing-state-in-flutter-using-bloc-pattern"
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
   }
 ]
